@@ -1,9 +1,9 @@
-Installing
-Install and update using pip:
+###Installing
+#Install and update using pip:
 
-pip install -U Flask
+> pip install -U Flask
 
-Run flask_hangman.py through command line
+#Run flask_hangman.py through command line
 
 > python flask_hangman.py
 
